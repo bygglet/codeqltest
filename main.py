@@ -1,6 +1,6 @@
 def main():
     print("Hello World!")
-    if True:
+    if False:
         print("hej")
 
 if __name__ == "__main__":
